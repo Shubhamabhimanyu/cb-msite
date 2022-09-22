@@ -13,7 +13,7 @@ export default function RummyHi() {
             <div className="row py-3 py-sm-5">
               <div className="col-md-12 text-center text-sm-start align-self-center">
                 <h2 className="text-md-center fw-bold">कैसे  <span className="text-blue ">खेलते हैं रम्मी गेम?</span></h2>
-                <p className="text-muted">आइए हम आपको CardBaazi Online रम्मी टेबल पर सोच-समझकर फैसले लेने में मदद करें। ऑनलाइन रम्मी गेम खेलने के लिएआपको इस गेम के बेसिक रुल सीखने होते हैं जिसके बाद आप गेम की शुरुआत कर सकते हैं |</p>
+                <p className="text-muted">आइए हम आपको RummyBaazi रम्मी टेबल पर सोच-समझकर फैसले लेने में मदद करें। ऑनलाइन रम्मी गेम खेलने के लिएआपको इस गेम के बेसिक रुल सीखने होते हैं जिसके बाद आप गेम की शुरुआत कर सकते हैं |</p>
    
               </div>
              

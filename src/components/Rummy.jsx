@@ -12,7 +12,7 @@ export default function Rummy() {
             <div className="row py-3 py-sm-5">
               <div className="col-md-12 text-center text-sm-start align-self-center">
                 <h2 className="text-md-center fw-bold">How <span className="text-blue ">To Play</span></h2>
-                <p className="text-muted">Let’s help you in making better decisions on the CardBaazi Online rummy tables. Start off with learning the basics of online rummy with this short introduction to Online Rummy.
+                <p className="text-muted">Let’s help you in making better decisions on the RummyBaazi rummy tables. Start off with learning the basics of online rummy with this short introduction to Online Rummy.
 </p>
         
               </div>

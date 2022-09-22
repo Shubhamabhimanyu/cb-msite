@@ -10,11 +10,11 @@ function App() {
    <>
 <BrowserRouter>
 <Routes>
-  <Route path='/contact-us' element={<Contactus/>} />
-  <Route path='/privacy-policy' element={ <PrivacyPolicy/>} />
-  <Route path='term-of-use' element={ <TermsOfUse/>} />
-  <Route path='rummy' element={<Rummy/>} />
-  <Route path='rummy-hi' element={<RummyHi/>} />
+  <Route path='/contact-us.html' element={<Contactus/>} />
+  <Route path='/privacy-policy.html' element={ <PrivacyPolicy/>} />
+  <Route path='term-of-use.html' element={ <TermsOfUse/>} />
+  <Route path='rummy.html' element={<Rummy/>} />
+  <Route path='rummy-hi.html' element={<RummyHi/>} />
 </Routes>
 </BrowserRouter>
  

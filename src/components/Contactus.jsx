@@ -20,7 +20,7 @@ export default function Contactus() {
             <div className="col-md-12">
                 <div className="supportbox">
                     <h2 className="fw-bold text-blue my-3">Looking for Help?</h2>
-                    <p className="pContent">CardBaazi Online is proud to have a conscientious and dedicated service team working
+                    <p className="pContent">RummyBaazi is proud to have a conscientious and dedicated service team working
                         for you. We provide multiple ways for you to reach our Customer Support team, as well as a page
                         of Frequently Asked Questions that can help you find an answer immediately.</p>
                              
@@ -39,7 +39,7 @@ export default function Contactus() {
                     </div>
                     <div className="col-md-6">
                         <h5 className="fw-bold text-blue  mb-1">Mail</h5>
-                        <p className="pContent">playerrelations@cardbaazi.com</p>
+                        <p className="pContent">playerrelations@rummybaazi.com</p>
                     </div>
                 </div>
             </div>

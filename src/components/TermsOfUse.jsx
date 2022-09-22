@@ -25,7 +25,7 @@ export default function TermsOfUse() {
     <li>M/s Baazi Networks Private Limited and all its subsidiaries, from here on called the 'company' (the
         company could also be referred to as 'we', 'us', 'our' and other such adjectives).
     </li>
-    <li>Company’s website www.cardbaazionline.com, from here on is referred to as the 'website'.</li>
+    <li>Company’s website www.rummybaaazi.com, from here on is referred to as the 'website'.</li>
     <li>‘You’ shall mean the person using the Website and/or the products and services offered by the Company on
         the Website, from here on will be referred to as 'you', 'your', 'user' or 'player'.
     </li>
@@ -40,7 +40,7 @@ export default function TermsOfUse() {
     <li>Effective 23rd June 2022, every new sign-up will get a default system-generated username. Players can
         change their default username to a username of their choice only once.
     </li>
-    <li>CardBaazi Online holds the rights to showcase players’ mucked hands for content creation which can be
+    <li>RummyBaazi holds the rights to showcase players’ mucked hands for content creation which can be
         used on various multimedia channels.
     </li>
 </ul>
@@ -97,7 +97,7 @@ export default function TermsOfUse() {
     becomes a member of the site by giving false information, the liability will be solely on the user and the
     company reserves the right to terminate the user's membership without any notice and confiscate all his
     deposit
-    and winnings as the case might be. If we find a player playing on CardBaazi Online app or website, who has
+    and winnings as the case might be. If we find a player playing on RummyBaazi app or website, who has
     an IP
     address of any restricted state(s), or if a deposit or withdrawal is initiated through an IP address of any
     banned state, such users account(s) will be terminated with immediate effect and the funds in the account
@@ -152,7 +152,7 @@ export default function TermsOfUse() {
 
 <h4>Sharing of passwords and other player responsibilities</h4>
 <p>Sharing or distribution of the password with any other user/ person/ group or any third party is strictly
-    prohibited. CardBaazi Online is not responsible if your account is accessed or opened by others using your
+    prohibited. RummyBaazi is not responsible if your account is accessed or opened by others using your
     password. You are held legally responsible and liable for all of your activities on the website made from
     your
     Account, whether or not made by you.
@@ -165,7 +165,7 @@ export default function TermsOfUse() {
     content should be brought to the notice of the website/Company. The website shall act upon the information
     as it
     deems acceptable. The decision taken by the management of the company or the website in this regard shall be
-    final and binding on the player and the player specifically agrees that www.cardbaazionline.com will not
+    final and binding on the player and the player specifically agrees that www.rummybaaazi.com will not
     incur
     any liability under any circumstance whatsoever regarding the same. You understand that it is your
     obligation to
@@ -240,7 +240,7 @@ export default function TermsOfUse() {
     TDS
     as per the rules and regulations of the government of India. You acknowledge that you are making use of the
     services knowing that you may face a risk of monetary loss when using the services and that
-    www.cardbaazionline.com shall have no responsibility to you for any such loss that arises in the course of
+    www.rummybaaazi.com shall have no responsibility to you for any such loss that arises in the course of
     your
     participation in the services or use of the products offered on the Website. You understand that your
     victory in
@@ -263,7 +263,7 @@ export default function TermsOfUse() {
 <h1>Unfair Gameplay:
 </h1>
 <ul>
-    <li>We, at CardBaazi Online, will always consider the best interests and fairness of the game. Game
+    <li>We, at RummyBaazi, will always consider the best interests and fairness of the game. Game
         manipulation/Unfair Gameplay shall not be tolerated, and we shall take all suitable measures and/or
         actions
         against Users/accounts engaging in such game manipulation or illegal activity or unfair gameplay.</li>
@@ -276,7 +276,7 @@ export default function TermsOfUse() {
 
 <h4>1. CHIP DUMPING</h4>
 <ul>
-    <li>i. Chip-dumping occurs when any CardBaazi Online User/Player intentionally loses a hand in order to
+    <li>i. Chip-dumping occurs when any RummyBaazi User/Player intentionally loses a hand in order to
         deliberately transfer his/her Chips to any other User/Player.</li>
     
     <li>ii. We consider the illegal activity of Chip dumping as a material breach of these Terms of Use and
@@ -285,25 +285,25 @@ export default function TermsOfUse() {
         in
         the illegal activity of Chip dumping, as we deem fit on case to case basis.</li>
     
-    <li>iii. In the event we, at CardBaazi Online , find that the User/Player is involved in such illegal and
+    <li>iii. In the event we, at RummyBaazi , find that the User/Player is involved in such illegal and
         unfair
-        activity of Chip Dumping in any way possible on CardBaazi Online, we shall be entitled to take any of
+        activity of Chip Dumping in any way possible on RummyBaazi, we shall be entitled to take any of
         the
         actions as we deem fit on a case to case basis, including but not limited to:</li>
-    <li>Penalty funds/amount/chips/bonus deduction from CardBaazi Online account of Users/Players involved in
+    <li>Penalty funds/amount/chips/bonus deduction from RummyBaazi account of Users/Players involved in
         illegal activity of Chip Dumping.</li>
     <li>Ejecting them from all cash tables and not allowing them to continue in any running tournament that they
         are
-        playing or are registered in any tournaments in the future on CardBaazi Online.</li>
-    <li>Immediately blocking access to CardBaazi Online of all the Users/Players involved in illegal activity of
+        playing or are registered in any tournaments in the future on RummyBaazi.</li>
+    <li>Immediately blocking access to RummyBaazi of all the Users/Players involved in illegal activity of
         Chip Dumping including but not limited to ejecting them from all cash tables and not allowing them to
         continue in any running tournament that they are playing and/or are registered in any tournaments in
         future
-        on CardBaazi Online.</li>
-    <li>Seizing all funds/amount/chips/bonus from CardBaazi Online accounts of all the Users/Players involved in
+        on RummyBaazi.</li>
+    <li>Seizing all funds/amount/chips/bonus from RummyBaazi accounts of all the Users/Players involved in
         the
         illegal activity of Chip Dumping.</li>
-    <li>Termination/closure of CardBaazi Online Account of all the Users/Players involved in illegal activity of
+    <li>Termination/closure of RummyBaazi Account of all the Users/Players involved in illegal activity of
         Chip Dumping.</li>
     <li>Taking appropriate legal action against all the User/Player (involved in illegal activity of Chip
         Dumping)
@@ -324,7 +324,7 @@ export default function TermsOfUse() {
         playing at a particular table or in a tournament, including restricting two or more Users/Players from
         playing together at the same table or in the same tournament.</li>
     
-    <li>iii. When the User/Player agrees to the Terms of Use and Service of CardBaazi Online, he/she agrees that
+    <li>iii. When the User/Player agrees to the Terms of Use and Service of RummyBaazi, he/she agrees that
         he/she shall not play any game in a partnership or by communicating with other Users/Players which may
         give
         benefit to him/her over other Users/Players. We consider any collusion between Users/Players as a
@@ -334,20 +334,20 @@ export default function TermsOfUse() {
         against the Users/Players, involved in illegal activity of Collusion, as we deem fit on a case to case
         basis.</li>
     
-    <li>iv. In the event we, at CardBaazi Online, find that the User/Player is involved in such an illegal and
-        unfair activity of Collusion in any way possible on CardBaazi Online, we shall be entitled to take any
+    <li>iv. In the event we, at RummyBaazi, find that the User/Player is involved in such an illegal and
+        unfair activity of Collusion in any way possible on RummyBaazi, we shall be entitled to take any
         of
         the actions as we deem fit on a case to case basis, including but not limited to:</li>
-    <li>Penalty funds/amount/chips/bonus deduction from CardBaazi Online account of Users/Players involved in
+    <li>Penalty funds/amount/chips/bonus deduction from RummyBaazi account of Users/Players involved in
         illegal activity of Collusion.</li>
-    <li>Immediately blocking access to CardBaazi Online of all the Users/Players involved in illegal activity of
+    <li>Immediately blocking access to RummyBaazi of all the Users/Players involved in illegal activity of
         Collusion including but not limited to ejecting them from all cash tables and not allowing them to
         continue
         in any running tournament that they are playing and/or are registered in any tournaments in future on
-        CardBaazi Online.</li>
-    <li>Seizing all funds/amount/chips/bonus from CardBaazi Onlineaccounts of all the Users/Players involved in
+        RummyBaazi.</li>
+    <li>Seizing all funds/amount/chips/bonus from RummyBaaziaccounts of all the Users/Players involved in
         illegal activity of Collusion.</li>
-    <li>Termination/closure of CardBaazi Online Account of all the Users/Players involved in illegal activity of
+    <li>Termination/closure of RummyBaazi Account of all the Users/Players involved in illegal activity of
         Collusion.</li>
     <li>Taking appropriate legal action against all the User/Player (involved in illegal activity of Collusion)
         under applicable law in the jurisdiction.</li>
@@ -356,18 +356,18 @@ export default function TermsOfUse() {
 <h4>3. MULTIPLE USER/PLAYER ACCOUNTS
 </h4>
 <ul>
-    <li>i. It is prohibited for a User/player to open multiple CardBaazi Online Accounts. A User/ Player may
+    <li>i. It is prohibited for a User/player to open multiple RummyBaazi Accounts. A User/ Player may
         only
-        have one CardBaazi Online Account and shall only use CardBaazi Online using such a single account A
-        User/Player is also prohibited from creating any User/Player account on CardBaazi Online in his/her
+        have one RummyBaazi Account and shall only use RummyBaazi using such a single account A
+        User/Player is also prohibited from creating any User/Player account on RummyBaazi in his/her
         family
         member’s and/or friend’s and/or relatives’ name and/or playing ‘games of skill’ from any other
         User/Player
-        account (including but not limited to family or friends or relatives’ accounts) on CardBaazi Online.
+        account (including but not limited to family or friends or relatives’ accounts) on RummyBaazi.
         Further, a User/Player shall be strictly prohibited from allowing any other person to access his/her
         User
-        account for playing ‘games of skill’ on CardBaazi Online. Users/Players shall be strictly restricted or
-        prohibited from using any User/Player account on a sharing basis on CardBaazi Online. (“Multiple
+        account for playing ‘games of skill’ on RummyBaazi. Users/Players shall be strictly restricted or
+        prohibited from using any User/Player account on a sharing basis on RummyBaazi. (“Multiple
         Accounts”)
     </li>
     
@@ -375,56 +375,55 @@ export default function TermsOfUse() {
         Service
         and accordingly we shall have the right to take appropriate action against the User/Player, involved in
         such
-        illegal activity of Multiple Accounts (Multiple User/Player Accounts) on CardBaazi Online, as we deem
+        illegal activity of Multiple Accounts (Multiple User/Player Accounts) on RummyBaazi, as we deem
         fit on
         case to case basis.</li>
     
-    <li>iii. In the event, that we, at CardBaazi Online, become aware of additional accounts (Multiple Accounts)
+    <li>iii. In the event, that we, at RummyBaazi, become aware of additional accounts (Multiple Accounts)
         opened by a User/Player, we shall be entitled to take any of the actions as we deem fit on a
         case-to-case
         basis, including but not limited to:</li>
-    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s CardBaazi Online account, the penalty
+    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s RummyBaazi account, the penalty
         amount
-        to be decided by CardBaazi Online at its sole discretion.</li>
-    <li>Immediately blocking User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+        to be decided by RummyBaazi at its sole discretion.</li>
+    <li>Immediately blocking User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
-    <li>Seizing all funds/amount/chips/bonus held in all CardBaazi Online accounts of the User/Player.</li>
-    <li>Termination/closure of all CardBaazi Online accounts of the User/Player.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
+    <li>Seizing all funds/amount/chips/bonus held in all RummyBaazi accounts of the User/Player.</li>
+    <li>Termination/closure of all RummyBaazi accounts of the User/Player.</li>
     <li>Taking appropriate legal action against a User/Player (involved in illegal activity of having Multiple
-        Accounts on CardBaazi Online) under applicable law in the jurisdiction.</li>
+        Accounts on RummyBaazi) under applicable law in the jurisdiction.</li>
 </ul>
 
 
 <h4>4. IP GHOSTING
 </h4>
 <ul>
-    <li>i. User/player, during the gameplay on CardBaazi Online, shall not and/or attempt to change the Internet
-        Protocol (IP) Address and/or Geo-location multiple times without written authorization from CardBaazi
-        Online
+    <li>i. User/player, during the gameplay on RummyBaazi, shall not and/or attempt to change the Internet
+        Protocol (IP) Address and/or Geo-location multiple times without written authorization from RummyBaazi
         (“IP Ghosting”).</li>
     
     <li>ii. We consider the illegal activity of IP Ghosting by a User/Player as a material breach of these Terms
         of
         Use and Service and accordingly we shall have the right to take appropriate action against the
         User/Player,
-        involved in such illegal activity of IP Ghosting on CardBaazi Online, as we deem fit on case to case
+        involved in such illegal activity of IP Ghosting on RummyBaazi, as we deem fit on case to case
         basis.
     </li>
     
-    <li>iii. In the event we, at CardBaazi Online, find that the User/Player is involved in such IP Ghosting
+    <li>iii. In the event we, at RummyBaazi, find that the User/Player is involved in such IP Ghosting
         and/or
-        change of Geo-location during gameplay on CardBaazi Online, we shall be entitled to take any of the
+        change of Geo-location during gameplay on RummyBaazi, we shall be entitled to take any of the
         actions
         as we deem fit on a case to case basis, including but not limited to:</li>
-    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s CardBaazi Online account.</li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s RummyBaazi account.</li>
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Termination/closure of User's/Player’s CardBaazi Online Account.</li>
+    <li>Termination/closure of User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player (involved in illegal activity of IP Ghosting)
         under
         applicable law in the jurisdiction.</li>
@@ -433,28 +432,27 @@ export default function TermsOfUse() {
 <h4>5. SOFTWARE MODIFICATIONS</h4>
 <ul>
     <li>i. User/Player shall not and/or attempt to modify, decompile, reverse-engineer or disassemble the
-        CardBaazi
-        Online Software in any way.</li>
+    RummyBaazi Software in any way.</li>
     
     <li>ii. We consider the illegal activity of software modification by a User/Player as a material breach of
         these
         Terms of Use and Service and accordingly we shall have the right to take appropriate action against the
-        User/Player, involved in such illegal activity of software modification on CardBaazi Online, as we deem
+        User/Player, involved in such illegal activity of software modification on RummyBaazi, as we deem
         fit
         on case to case basis.</li>
     
-    <li>iii. In the event we, at CardBaazi Online, find that the User/Player is involved in such software
-        modification or has attempted to modify the CardBaazi Online software in any way possible, we shall be
+    <li>iii. In the event we, at RummyBaazi, find that the User/Player is involved in such software
+        modification or has attempted to modify the RummyBaazi software in any way possible, we shall be
         entitled to take any of the actions as we deem fit on a case to case basis, including but not limited
         to:
     </li>
-    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s CardBaazi Online account.</li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s RummyBaazi account.</li>
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Termination/closure of a User's/Player’s CardBaazi Online Account.</li>
+    <li>Termination/closure of a User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player (involved in illegal activity of software
         modification) under applicable law in the jurisdiction.</li>
 </ul>
@@ -464,22 +462,21 @@ export default function TermsOfUse() {
 
 <ul>
     <li>i. The use of artificial intelligence including, without limitation, "robots" is strictly forbidden on
-        CardBaazi Online. All actions taken in relation to CardBaazi Online by a User/player must be executed
-        personally by Users/Players through the User/Player interface accessible by use of the CardBaazi Online
+        RummyBaazi. All actions taken in relation to RummyBaazi by a User/player must be executed
+        personally by Users/Players through the User/Player interface accessible by use of the RummyBaazi
         Software.</li>
     
     <li>ii. We prohibit those External Player Assistance Programs which are designed to provide an "Unfair
-        Advantage" to Users/Players. We define "External" to mean computer software (other than the CardBaazi
-        Online
+        Advantage" to Users/Players. We define "External" to mean computer software (other than the RummyBaazi
         Software), and non-software-based databases or profiles. We define an "Unfair Advantage" as any instance
         in
         which a User/Player accesses or compiles information on other Users/Players beyond that which the
         User/Player has personally observed through the User's/Player’s own game play.</li>
     
-    <li>iii. The User/Player agrees that we, at CardBaazi Online, may take steps to detect and prevent the use
+    <li>iii. The User/Player agrees that we, at RummyBaazi, may take steps to detect and prevent the use
         of
         prohibited External Player Assistance (EPA) Programs. These steps may include, but are not limited to,
-        examination of software programs running concurrently with our CardBaazi Online Software on the User's
+        examination of software programs running concurrently with our RummyBaazi Software on the User's
         PC or
         Device. The User/Player agrees that he/she will not attempt to bypass, interfere with, or block such
         steps,
@@ -489,21 +486,21 @@ export default function TermsOfUse() {
         of
         Use and Service and accordingly we shall have the right to take appropriate action against the
         User/Player,
-        involved in such illegal activity of using EPA Programs and BOTS on CardBaazi Online, as we deem fit on
+        involved in such illegal activity of using EPA Programs and BOTS on RummyBaazi, as we deem fit on
         case
         to case basis.</li>
     
-    <li>v. In the event we, at CardBaazi Online, find that the User/Player is involved in such illegal activity
+    <li>v. In the event we, at RummyBaazi, find that the User/Player is involved in such illegal activity
         of
         EPA Programs and/or use of BOTS, we shall be entitled to take any of the actions as we deem fit on a
         case-to-case basis, including but not limited to:</li>
-    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s CardBaazi Online account.</li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s RummyBaazi account.</li>
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Termination/closure of a User's/Player’s CardBaazi Online Account.</li>
+    <li>Termination/closure of a User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player under applicable law in the jurisdiction.</li>
 </ul>
 
@@ -513,28 +510,28 @@ export default function TermsOfUse() {
     <li>i. The User/Player is prohibited from posting any unlawful, indecent, racist, religious, obscene,
         libellous,
         defamatory or threatening material or any material that would violate any applicable law or generally be
-        considered to be offensive, via CardBaazi Online whether using the chat function, or in
-        correspondence/conversation with our CardBaazi Online personnel.</li>
+        considered to be offensive, via RummyBaazi whether using the chat function, or in
+        correspondence/conversation with our RummyBaazi personnel.</li>
     
     <li>ii. We consider illegal activity of using offensive language or content by a User/Player as a material
         breach of these Terms of Use and Service and accordingly we shall have the right to take appropriate
         action
         against the User/Player, involved in such illegal activity of using offensive language or content by a
-        User/Player on CardBaazi Online, as we deem fit on case to case basis.</li>
-    <li>iii. In the event we, at CardBaazi Online, find that the User/Player is involved in such illegal
+        User/Player on RummyBaazi, as we deem fit on case to case basis.</li>
+    <li>iii. In the event we, at RummyBaazi, find that the User/Player is involved in such illegal
         activity of
         using offensive language or content, we shall be entitled to take any of the actions as we deem fit on a
         case-to-case basis, including but not limited to:</li>
-    <li>Warning to the said User/Player and temporary blocking for the time period decided by CardBaazi Online
+    <li>Warning to the said User/Player and temporary blocking for the time period decided by RummyBaazi
         at
         its sole discretion.</li>
-    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s CardBaazi Online account.</li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Penalty funds/amount/chips/bonus deduction from User’s/Player’s RummyBaazi account.</li>
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Termination/closure of a User's/Player’s CardBaazi Online Account.</li>
+    <li>Termination/closure of a User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player under applicable law in the jurisdiction.</li>
 </ul>
 
@@ -543,58 +540,57 @@ export default function TermsOfUse() {
 <ul>
     <li>i. The User/Player shall not disguise himself/herself to be another User/Player and play games of skill
         on
-        CardBaazi Online. CardBaazi Online verifies all the details/information and documents of each
+        RummyBaazi. RummyBaazi verifies all the details/information and documents of each
         User/Player
-        uploaded on CardBaazi Online by each User/Player including but not limited to registered contact
+        uploaded on RummyBaazi by each User/Player including but not limited to registered contact
         details,
-        and verification documents (as required by CardBaazi Online at the time of withdrawal).</li>
+        and verification documents (as required by RummyBaazi at the time of withdrawal).</li>
     
-    <li>ii. CardBaazi Online shall verify all the said details/information and documents from each User/Player
-        through a telephonic conversation. The answers by the Users/Players shall be assessed by CardBaazi
-        Online
+    <li>ii. RummyBaazi shall verify all the said details/information and documents from each User/Player
+        through a telephonic conversation. The answers by the Users/Players shall be assessed by RummyBaazi
         and if the User/Player is found providing wrong answers and/or is unable to answer the questions
         (through
-        such telephonic conversation) posed by CardBaazi Online pertaining to the said details/information and
-        documents uploaded by him/her on CardBaazi Online, we shall be entitled to take any of the following
+        such telephonic conversation) posed by RummyBaazi pertaining to the said details/information and
+        documents uploaded by him/her on RummyBaazi, we shall be entitled to take any of the following
         actions
         as we deem fit on a case to case basis, including but not limited to:</li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Termination/closure of a User's/Player’s CardBaazi Online Account.</li>
+    <li>Termination/closure of a User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player under applicable law in the jurisdiction.</li>
 </ul>
 
 <h4>9. FRAUDULENT BEHAVIOUR
 </h4>
 <ul>
-    <li>i. In the event that we, at CardBaazi Online, deem that a User/Player has engaged or attempted to engage
+    <li>i. In the event that we, at RummyBaazi, deem that a User/Player has engaged or attempted to engage
         in
-        fraudulent, unlawful, dishonest or improper activity while using CardBaazi Online, including without
+        fraudulent, unlawful, dishonest or improper activity while using RummyBaazi, including without
         limitation, engaging in any of the activities set forth above or any other game manipulation, we, at
-        CardBaazi Online, shall be entitled to take such action as we deem fit, including but not limited to:
+        RummyBaazi, shall be entitled to take such action as we deem fit, including but not limited to:
     </li>
-    <li>Immediately blocking a User’s/Player’s access to CardBaazi Online including but not limited to ejecting
+    <li>Immediately blocking a User’s/Player’s access to RummyBaazi including but not limited to ejecting
         them
         from all cash tables and not allowing them to continue in any running tournament that they are playing
-        and/or are registered in any tournaments in future on CardBaazi Online.</li>
+        and/or are registered in any tournaments in future on RummyBaazi.</li>
     <li>Seizing all funds/amount/chips/bonus held in the User's/Player’s account.</li>
-    <li>Terminating a User's/Player’s CardBaazi Online Account.</li>
+    <li>Terminating a User's/Player’s RummyBaazi Account.</li>
     <li>Taking appropriate legal action against a User/Player under applicable law in the jurisdiction.</li>
     
     <li>ii. In any such cases of unfair and illegal activities (including but not limited to chip dumping,
         collusion, soft play, chat abuse, misuse of chat for discussing hands, multiple accounts, use of BOTS),
-        User/Player IDs shall be investigated by CardBaazi Online/Baazi Networks Pvt. Ltd. can take up to seven
+        User/Player IDs shall be investigated by RummyBaazi/Baazi Networks Pvt. Ltd. can take up to seven
         (7)
         working days before a decision on the same is communicated to the User/Player. User/Player shall render
         all
-        cooperation required by CardBaazi Online/Baazi Networks Pvt. Ltd. in order to carry out such
+        cooperation required by RummyBaazi/Baazi Networks Pvt. Ltd. in order to carry out such
         investigation.
     </li>
     
-    <li>iii. Post the investigation, any decision taken by CardBaazi Online/Baazi Networks Pvt. Ltd. shall not
+    <li>iii. Post the investigation, any decision taken by RummyBaazi/Baazi Networks Pvt. Ltd. shall not
         be
         disputed by the User/Player and the decision shall be considered final and binding. User/Player agrees
         that
