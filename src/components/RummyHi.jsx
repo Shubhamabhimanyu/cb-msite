@@ -1,5 +1,4 @@
 import React from 'react';
-import './Assets/RummyHi.css';
 
 export default function RummyHi() {
   return (

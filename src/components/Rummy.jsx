@@ -1,5 +1,4 @@
 import React from 'react'
-import './Assets/Rummy.css'
 export default function Rummy() {
   return (
     <>

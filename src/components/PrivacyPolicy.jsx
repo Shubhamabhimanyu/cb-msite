@@ -1,5 +1,4 @@
 import React from 'react'
-import './Assets/TandC.css'
 export default function PrivacyPolicy() {
   return (
    <>

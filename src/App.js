@@ -4,7 +4,7 @@ import TermsOfUse from './components/TermsOfUse';
 import Rummy from './components/Rummy';
 import RummyHi from './components/RummyHi';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
-
+import './components/Assets/Style.css'
 function App() {
   return (
    <>
@@ -17,7 +17,7 @@ function App() {
   <Route path='rummy-hi' element={<RummyHi/>} />
 </Routes>
 </BrowserRouter>
-
+ 
    </>
   );
 }

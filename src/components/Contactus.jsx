@@ -1,5 +1,4 @@
 import React from 'react'
-import './Assets/Contact.css'
 export default function Contactus() {
   return (
 <>
