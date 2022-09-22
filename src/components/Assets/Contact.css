@@ -1,0 +1,79 @@
+
+/* contact-us */
+@media screen and (max-width: 600px)
+{.generic-banner {
+    height: 300px !important;
+    background-position: bottom !important;
+}}
+@media only screen and (max-width: 767px)
+{.support-banner {
+    background-image: url(https://web.pokerbaazicdn.com/assets/images/supportbg-mobile.png);
+}}
+@media screen and (max-width: 600px)
+{.generic-banner {
+    height: 300px !important;
+    background-position: bottom !important;
+}}
+.generic-banner {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 472px;
+}
+.support-banner {
+    background-image: url(https://web.pokerbaazicdn.com/assets/images/supportbg.jpg);
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+@media screen and (max-width: 600px)
+{.generic-banner {
+    height: 300px !important;
+    background-position: bottom !important;
+}}
+
+        @media only screen and (max-width: 767px){
+.support-banner {
+    background-image: url(https://web.pokerbaazicdn.com/assets/images/supportbg-mobile.png);
+}
+        }
+
+
+  
+.generic-banner__inner {
+    padding-top: 130px;
+}
+@media only screen and (max-width: 767px){
+.generic-banner__inner {
+    padding-top: 130px;
+}}
+
+@media only screen and (max-width: 768px)
+{.generic-banner__title {
+    font-size: 22px;
+    line-height: 30px;
+}}
+
+@media only screen and (max-width: 767px)
+{.w-49 {
+    width: 49%;
+}}
+.text-blue {
+    color: #2F6FF1;
+}
+.fw-bold {
+    font-weight: 700!important;
+}
+.pContent {
+    margin-bottom: 0px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #8292a2;
+    text-align: justify;
+}
+
