@@ -1,7 +1,16 @@
-import React from 'react'
+import React from 'react';
+import {Link} from 'react-router-dom';
+
 export default function Contactus() {
   return (
 <>
+<div className='dbs-icon'>
+            <Link to="/path">
+            <img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-left.png" alt=''/>
+
+            </Link>
+
+        </div>
 <section className="generic-banner support-banner">
     <div className="container">
         <div className="row">
